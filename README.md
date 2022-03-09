@@ -13,7 +13,8 @@
     <main>
         <article class="box">
             <h1>kanchanasuda Phuimuntree (Lin)</h1>
-             <li>กาญจนสุดา ผุยมูลตรี (หลิน)</li>
+             
+            <li>กาญจนสุดา ผุยมูลตรี (หลิน)</li>
             
             <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
@@ -26,6 +27,16 @@
                      <li><a href="https://Facebook.com/<handle>">@https://www.facebook.com/dylan.osim.3</a></li>
                     <li><a href="https://linkedin.com/in/<handle>">@http://www.linkedin.com/profile/edit/honor</a></li>
                 </ul>    
+               
+                <ul>
+                     <li>Name: miss Kanchanasuda Phuimuntree</li>
+                    <li>Nickname: Lin</li>
+                    <li>Age: 21</li>
+                    <li>Nationality: Thai</li>
+                    <li>Blood’s Group: A</li>
+                </ul>    
+               
+               
             </section>
             
             <section class="box">
@@ -34,7 +45,7 @@
                         <i class="fa fa-certificate" aria-hidden="true"></i>
                         Khon Kaen University
                     </h2>
-                    <h3>Major</h3>
+                    <h3>Major: Statistical Information and Data Science</h3>
                     <ul>
                         <li>GPA: 2.57</li>
                         <li>Years : 2</li>
@@ -68,7 +79,8 @@
                     <li>Program Management</li>
                 </ul>
            
-                 <h3>My Goal</h3>
+   
+                <h3>My Goal</h3>
                 <ul>
                     <li>In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.</li>
                     
