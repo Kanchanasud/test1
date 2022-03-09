@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,7 +68,7 @@
                 </ul>
            
                 
-                   <h3>My Goal</h3>
+                   <h4>My Goal</h4>
                 
                 <li>In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand. </li>
                 <ul>
