@@ -12,8 +12,8 @@
 <body>
     <main>
         <article class="box">
-            <h1>Your Name</h1>
-            <div><a href="mailto:your.email@example.com">your-email@example.com</a></div>
+            <h1> My Name Kanchanasuda Phuimuntree </h1>
+            <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
             <section class="box">
                 <h2>
@@ -21,10 +21,10 @@
                     Social media
                 </h2>
                 <ul>
-                    <li><a href="https://github.com/<handle>">@github_handle</a></li>
-                    <li><a href="https://linkedin.com/in/<handle>">@linkedin_handle</a></li>
-                    <li><a href="https://twitter.com/<handle>">@twitter_handle</a></li>
-                </ul>    
+                    <li><a href="https://Facebook.com/<handle>">@https://www.facebook.com/dylan.osim.3</a></li>
+                    <li><a href="https://linkedin.com/in/<handle>">@http://www.linkedin.com/profile/edit/honor</a></li>
+                    
+                  </ul>    
             </section>
             
             <section class="box">
@@ -33,10 +33,10 @@
                         <i class="fa fa-certificate" aria-hidden="true"></i>
                         School name
                     </h2>
-                    <h3>Major</h3>
+                    <h3>Major : Statistical Information and Data Science</h3>
                     <ul>
-                        <li>GPA: 4.0</li>
-                        <li>Years</li>
+                        <li>GPA : 2.59</li>
+                        <li> Years : 2</li>
                     </ul>
                 </div>
             </section>
@@ -47,11 +47,11 @@
                     Skills
                 </h2>
                 <ul>
-                    <li>CSS</li>
+                    
                     <li>HTML</li>
-                    <li>JavaScript</li>
+                    <li>R</li>
                     <li>Git</li>
-                    <li>Visual Studio Code</li>
+                 
                 </ul>
             </section>
         </article>
@@ -63,34 +63,17 @@
                 </h2>
                 <h3>Microsoft Learn Student Ambassador</h3>
                 <ul>
-                    <li>Some skill</li>
-                    <li>Another skill</li>
-                </ul>
+                    <li>Communication</li>
+                    <li>Public Speaking</li>
+                    <li>Even Organizing</li>
+                    <li>Program Management</li>
+               </ul>
             </section>
             <section class="box">
                 <h2>
                     <i class="fa fa-building" aria-hidden="true"></i>
                     Internships
                 </h2>
-
-                <h3>Company name</h3>
-                <ul>
-                    <li>Accomplishment</li>
-                    <li>Another accomplishment</li>
-                </ul>
-            </section>
-            <section class="box">
-                <h2>
-                    <i class="fa fa-cubes" aria-hidden="true"></i>
-                    Projects
-                </h2>
-                
-                <h3>Great hackathon</h3>
-                <div>This was a great hack!</div>
-                <ul>
-                    <li>Cool technology used</li>
-                    <li>Prize won</li>
-                </ul>
             </section>
         </article>
     
