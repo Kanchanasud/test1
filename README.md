@@ -12,7 +12,8 @@
 <body>
     <main>
         <article class="box">
-            <h1>kanchanasuda Phuimuntree</h1>
+            <h1>kanchanasuda Phuimuntree (Lin)</h1>
+            <h1>กาญจนสุดา ผุยมูลตรี (หลิน)</h1>
          <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
             <section class="box">
@@ -66,14 +67,12 @@
                     <li>Program Management</li>
                 </ul>
            
-                   <h3> In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.</h3>
-                <ul>
-                    <li>Communication</li>
-                    <li>Public Speaking</li>
-                    <li>Even Organizing</li>
-                    <li>Program Management</li>
-                </ul>
                 
+                   <h3>My Goal</h3>
+                
+                <li>In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand. </li>
+                <ul>
+                 
                 
                 
                 
