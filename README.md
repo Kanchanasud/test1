@@ -14,10 +14,9 @@
         <article class="box">
             <h1>kanchanasuda Phuimuntree (Lin)</h1>
              <li>กาญจนสุดา ผุยมูลตรี (หลิน)</li>
-         
-         <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
-          
+            <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
+            
            <section class="box">
                 <h2>
                     <i class="fa fa-bullhorn" aria-hidden="true"></i>
@@ -69,21 +68,19 @@
                     <li>Program Management</li>
                 </ul>
            
-                 <h4>My Goal</h4>
+                 <h3>My Goal</h3>
                 <ul>
                     <li>In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.</li>
                     
                 </ul>
            
-                
-                
-                
-                
-                 
-                
            </section>
         </article>
     
     </main>
 </body>
 </html>
+
+![image](https://user-images.githubusercontent.com/101161411/157436063-29d66988-d404-4582-8c14-e91276894b89.png)
+
+
