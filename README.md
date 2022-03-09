@@ -17,11 +17,8 @@
          
          <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
-           ![image](https://user-images.githubusercontent.com/101161411/157433218-55094958-91b6-4ed3-8ae9-8a71789c2e6d.png)
-            
-
-            
-         <section class="box">
+          
+           <section class="box">
                 <h2>
                     <i class="fa fa-bullhorn" aria-hidden="true"></i>
                     Social media
@@ -72,7 +69,7 @@
                     <li>Program Management</li>
                 </ul>
            
-                 <h3>My Goal</h3>
+                 <h4>My Goal</h4>
                 <ul>
                     <li>In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.</li>
                     
