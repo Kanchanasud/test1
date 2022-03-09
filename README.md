@@ -28,14 +28,7 @@
                     <li><a href="https://linkedin.com/in/<handle>">@http://www.linkedin.com/profile/edit/honor</a></li>
                 </ul>    
                
-                <ul>
-                     <li>Name: miss Kanchanasuda Phuimuntree</li>
-                    <li>Nickname: Lin</li>
-                    <li>Age: 21</li>
-                    <li>Nationality: Thai</li>
-                    <li>Blood’s Group: A</li>
-                </ul>    
-               
+                
                
             </section>
             
@@ -45,7 +38,7 @@
                         <i class="fa fa-certificate" aria-hidden="true"></i>
                         Khon Kaen University
                     </h2>
-                    <h3>Major: Statistical Information and Data Science</h3>
+                    <h3>Major : Statistical Information and Data Science</h3>
                     <ul>
                         <li>GPA: 2.57</li>
                         <li>Years : 2</li>
