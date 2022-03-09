@@ -66,9 +66,17 @@
                     <li>Program Management</li>
                 </ul>
            
-                    <li>Cool technology used</li>
-                    <li>Prize won</li>
+                   <h3> In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.</h3>
+                <ul>
+                    <li>Communication</li>
+                    <li>Public Speaking</li>
+                    <li>Even Organizing</li>
+                    <li>Program Management</li>
                 </ul>
+                
+                
+                
+                
             </section>
         </article>
     
