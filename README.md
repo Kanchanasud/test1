@@ -12,7 +12,7 @@
 <body>
     <main>
         <article class="box">
-            <h1>Chakhriya Kanchanasuda Phuimuntree</h1>
+            <h1> Kanchanasuda Phuimuntree</h1>
             <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
             <section class="box">
@@ -36,7 +36,7 @@
                         <i class="fa fa-certificate" aria-hidden="true"></i>
                         Khon Kaen University
                     </h2>
-                    <h3>Automation Robotics and Intelligence System</h3>
+                    <h3>Statistical Information and Data Science</h3>
                     <ul>
                         <li>GPA: 2.59</li>
                         <li>second year</li>
@@ -91,8 +91,8 @@
                 <h3>Great hackathon</h3>
                 <div>This was a great hack!</div>
                 <ul>
-                    <li>Cool technology used</li>
-                    <li>Prize won</li>
+                    <li></li>
+                    <li></li>
                 </ul>
             </section>
         </article>
