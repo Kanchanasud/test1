@@ -21,8 +21,6 @@
                     Social media
                 </h2>
                 <ul>
-                     <li><a href="https://Facebook.com/<handle>">@
-                     <li><a href="https://linkedin.com/in/<handle>">@
                     
                     <li><a href="https://github.com/<handle>">@github_handle</a></li>
                     <li><a href="https://linkedin.com/in/<handle>">@linkedin_handle</a></li>
@@ -76,7 +74,7 @@
                     Internships
                 </h2>
 
-                <h3>-e</h3>
+                <h3></h3>
                 <ul>
                     <li>-</li>
                     <li>-</li>
@@ -88,8 +86,8 @@
                     Projects
                 </h2>
                 
-                <h3>Great hackathon</h3>
-                <div>This was a great hack!</div>
+                <h3>-</h3>
+                <div>-!</div>
                 <ul>
                     <li></li>
                     <li></li>
