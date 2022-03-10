@@ -12,8 +12,8 @@
 <body>
     <main>
         <article class="box">
-            <h1>Kanchanasuda Phuimuntree</h1>
-            <div><a href="mailto:your.email@example.com">your-suzyping20@gmail.com</a></div>
+            <h1>Chakhriya Kanchanasuda Phuimuntree</h1>
+            <div><a href="mailto:your.email@example.com">suzyping20@gmail.com</a></div>
             
             <section class="box">
                 <h2>
@@ -21,8 +21,12 @@
                     Social media
                 </h2>
                 <ul>
-                    <li><a href="https://Facebook.com/<handle>">@https://www.facebook.com/dylan.osim.3</a></li>
-                <li><a href="https://linkedin.com/in/<handle>">@http://www.linkedin.com/profile/edit/honor</a></li>
+                     <li><a href="https://Facebook.com/<handle>">@
+                     <li><a href="https://linkedin.com/in/<handle>">@
+                    
+                    <li><a href="https://github.com/<handle>">@github_handle</a></li>
+                    <li><a href="https://linkedin.com/in/<handle>">@linkedin_handle</a></li>
+                    <li><a href="https://twitter.com/<handle>">@twitter_handle</a></li>
                 </ul>    
             </section>
             
@@ -30,13 +34,12 @@
                 <div class="education">
                     <h2>
                         <i class="fa fa-certificate" aria-hidden="true"></i>
-                        
-                         Khon Kaen University
+                        Khon Kaen University
                     </h2>
-                    <h3>Major: Statistical Information and Data Science</h3>
+                    <h3>Automation Robotics and Intelligence System</h3>
                     <ul>
                         <li>GPA: 2.59</li>
-                        <li>Years: 2</li>
+                        <li>second year</li>
                     </ul>
                 </div>
             </section>
@@ -61,7 +64,7 @@
                 </h2>
                 <h3>Microsoft Learn Student Ambassador</h3>
                 <ul>
-                    <li>Communication</li>
+                  <li>Communication</li>
                 <li>Public Speaking</li>
                 <li>Even Organizing</li>
                 <li>Program Management</li>
@@ -73,22 +76,25 @@
                     Internships
                 </h2>
 
-                <h3>My Goal</h3>
+                <h3>-e</h3>
                 <ul>
-                    <li>In the future, I would like to work in the field of data science because I like to think analytically and always want a challenging job. And I think that in the future, data-related careers will be more in demand.</li>
-                
-            </ul>
-       
-       </section>
-    </article>
-
-</main>
-
-
-
+                    <li>-</li>
+                    <li>-</li>
                 </ul>
             </section>
-            
+            <section class="box">
+                <h2>
+                    <i class="fa fa-cubes" aria-hidden="true"></i>
+                    Projects
+                </h2>
+                
+                <h3>Great hackathon</h3>
+                <div>This was a great hack!</div>
+                <ul>
+                    <li>Cool technology used</li>
+                    <li>Prize won</li>
+                </ul>
+            </section>
         </article>
     
     </main>
