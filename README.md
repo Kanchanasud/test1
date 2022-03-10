@@ -86,6 +86,5 @@
 </body>
 </html>
 
-![image](https://user-images.githubusercontent.com/101161411/157436063-29d66988-d404-4582-8c14-e91276894b89.png)
 
 
