@@ -77,7 +77,7 @@
                 <h3></h3>
                 <ul>
                     <li>-</li>
-                    <li>-</li>
+                    
                 </ul>
             </section>
             <section class="box">
@@ -87,7 +87,7 @@
                 </h2>
                 
                <h3>-</h3>
-                <div>-</div>
+                
                 <ul>
                     <li></li>
                     <li></li>
